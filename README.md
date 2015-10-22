@@ -1,4 +1,4 @@
-# Example
+# Bookdown Bootswatch Example
 
 Here you can see how well creating bookdown documentation with beautiful themes work.
 
