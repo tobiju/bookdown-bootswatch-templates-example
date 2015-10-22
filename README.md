@@ -17,4 +17,4 @@ Now you will find the bookdown documentation under the html directory.
 
 # Further Reading
 
-Information about to **change themes** or generate the book via a **docker** container you can find at [bookdown-bootswatch-templates](https://github.com/tobiju/bookdown-bootswatch-templates/README.md). 
+Information about to **change themes** or generate the book via a **docker** container you can find at [bookdown-bootswatch-templates](https://github.com/tobiju/bookdown-bootswatch-templates/blob/master/README.md). 
