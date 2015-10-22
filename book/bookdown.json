@@ -1,0 +1,9 @@
+{
+    "title": "My Book",
+    "content": [
+        "example.md",
+        "example_two.md"
+    ],
+    "target": "../html/",
+    "template": "../vendor/tobiju/bookdown-bootswatch-templates/templates/darkly/main.php"
+}

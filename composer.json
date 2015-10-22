@@ -1,0 +1,36 @@
+{
+    "name": "tobiju/bookdown-bootswatch-templates-example",
+    "type": "library",
+    "description": "Bookdown.io With Bootswatch Styles And Prism Syntax Highlighting",
+    "keywords": [
+        "bookdown",
+        "templates",
+        "syntax",
+        "highlighting",
+        "docbook",
+        "markdown",
+        "manual",
+        "documentation",
+        "static site",
+        "bookdown-bootswatch-templates"
+    ],
+    "homepage": "https://github.com/tobiju/bookdown-bootswatch-templates",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Bookdown.Project Contributors",
+            "homepage": "https://github.com/bookdown/Bookdown.Project/contributors"
+        }
+    ],
+    "require": {
+        "bookdown/bookdown": "*",
+        "tobiju/bookdown-bootswatch-templates": "1.0.x"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
