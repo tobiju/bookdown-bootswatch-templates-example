@@ -11,12 +11,9 @@ This is a subtitle on the example page.
 This is a sub-subtitle on the example page.
 
 ```php
-
 class foo {
     public function(){
         echo "bar";
     }
 }
-
-
 ```

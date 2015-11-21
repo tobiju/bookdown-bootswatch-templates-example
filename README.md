@@ -11,7 +11,10 @@ run ```php composer.phar install```
 
 # Generate The Book Html
 
-run ```php vendor/bin/bookdown path/to/book/bookdown.json```
+
+export CSS_BOOTSWATCH=superhero 
+
+run ```export CSS_BOOTSWATCH=superhero && export CSS_PRISM=dark && php vendor/bin/bookdown path/to/book/bookdown.json```
 
 Now you will find the bookdown documentation under the html directory.
 
